@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and athlete!!
 
-- 🔭 I just launched my first course: [python 3][course]
+- 🔭 first course: [python 3][course]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: change carrer for fullstack developer
 
