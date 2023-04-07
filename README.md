@@ -37,13 +37,6 @@
 <br />
 <br />
 
----
-
-### 📺 YouTube Videos (Hobby)
-
-<!-- YOUTUBE:START -->
-- [Tão Linda - Whindersson Nunes (Ukulele Cover](https://www.youtube.com/watch?v=z_MP9MtoYEc&ab_channel=UK100)
-- [Chimarruts - Versos Simples (Ukulele cover)](https://www.youtube.com/watch?v=gSzNzPvkcQU&ab_channel=UK100)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCqIWSpzw3fezWAX0e7y-jPw/featured)
