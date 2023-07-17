@@ -1,7 +1,7 @@
 ### Hi there, I'm Luiz Felipe 👋
 
 [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" width="50" />](https://www.linkedin.com/in/luiz-felipe-barbosa)
-[<img src="https://wetbf.files.wordpress.com/2015/03/curriculum-vitae.jpg" width="50" />]([https://drive.google.com/file/d/1MCE-jVOb50UtuP47n6PnkPUSNvG4-l6Q/view?usp=sharing](https://drive.google.com/file/d/1QXyi9xyxam9qCQOqGmT0XDEuwyA4e26S/view?usp=drive_link))
+[<img src="https://wetbf.files.wordpress.com/2015/03/curriculum-vitae.jpg" width="50" />](https://drive.google.com/file/d/1QXyi9xyxam9qCQOqGmT0XDEuwyA4e26S/view?usp=sharing)
 
 ## I'm a Developer, and athlete!!
 
